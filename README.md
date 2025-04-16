@@ -1,2 +1,2 @@
-# Quiz-Question-Web
+# Quiz-Questions-Web
 using HTML, CSS and JAVASCRIPT
